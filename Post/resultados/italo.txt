@@ -1,0 +1,5 @@
+ID: 0
+Texto: Vivendo a vida adoidado
+Autor: Felipe
+Data: Fri Oct 06 00:08:17 BRT 2023
+Quantidade de Likes: 0
